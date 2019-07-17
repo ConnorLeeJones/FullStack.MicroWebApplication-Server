@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca6cba1-870f-48c8-b73d-155a98d6f28f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserCommentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoCommentsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/videoproject/target/" />
@@ -35,14 +35,20 @@
       <content type="file-editors">
         <state>
           <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoCommentsTest.java">
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="540">
-                    <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-                    <folding>
-                      <element signature="imports" expanded="true" />
-                    </folding>
+                  <state relative-caret-position="697">
+                    <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="1050">
+                    <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
                   </state>
                 </provider>
               </entry>
@@ -78,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/CommentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="747">
               <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,10 +94,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/video/tests/components/MainTest.java">
+        <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/MainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="150">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,20 +105,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/VideoComments.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="120">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/VideoComments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/Video.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            <state relative-caret-position="-281">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoCommentsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,8 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/repositories/UserRepository.java" />
-        <option value="$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/repositories/VideoRepository.java" />
         <option value="$PROJECT_DIR$/videoproject/README.md" />
         <option value="$PROJECT_DIR$/videoproject/src/main/angular-videoproject/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/Comment.java" />
@@ -196,6 +224,8 @@
         <option value="$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/VideoComments.java" />
         <option value="$PROJECT_DIR$/videoproject/src/test/java/com/video/tests/components/MainTest.java" />
         <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoCommentsTest.java" />
+        <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java" />
+        <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java" />
       </list>
     </option>
   </component>
@@ -378,19 +408,19 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.zipcodewilmington.videoproject.models" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/videoproject/src/main/resources" />
+      <recent name="$PROJECT_DIR$/videoproject/src" />
+      <recent name="$PROJECT_DIR$/videoproject" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/videoproject/src/main/resources/static/js" />
       <recent name="$PROJECT_DIR$/videoproject/src/main/resources/static/css" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/videoproject/src/main/resources" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/videoproject/src/main/resources" />
-      <recent name="$PROJECT_DIR$/videoproject/src" />
-      <recent name="$PROJECT_DIR$/videoproject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -420,7 +450,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.video.tests.components.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.video.tests.components" />
+      <option name="MAIN_CLASS_NAME" value="com.video.tests.components.MainTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -429,13 +475,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.zipcodewilmington.videoproject.models" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.videoproject.models.CommentTest" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.videoproject.models.UserTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommentTest.getCommentText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserTest.getUserId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -444,14 +490,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.zipcodewilmington.videoproject.models" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.videoproject.models.CommentTest" />
-      <option name="METHOD_NAME" value="getCommentText" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.videoproject.models.UserTest" />
+      <option name="METHOD_NAME" value="getUserId" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VideoCommentsTest.getComments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VideoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -460,9 +506,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.zipcodewilmington.videoproject.models" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.videoproject.models.VideoCommentsTest" />
-      <option name="METHOD_NAME" value="getComments" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.videoproject.models.VideoTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -485,19 +530,6 @@
     </configuration>
     <configuration name="Angular Application (angularclient)" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
-    </configuration>
-    <configuration name="MainApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zipcodewilmington.videoproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zipcodewilmington.videoproject.MainApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="videoproject" />
@@ -529,10 +561,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in demo" />
-        <item itemvalue="JUnit.VideoCommentsTest.getComments" />
-        <item itemvalue="Spring Boot.MainApplication (1)" />
-        <item itemvalue="JUnit.CommentTest" />
-        <item itemvalue="JUnit.CommentTest.getCommentText" />
+        <item itemvalue="JUnit.VideoTest" />
+        <item itemvalue="JUnit.UserTest.getUserId" />
+        <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="JUnit.MainTest.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -554,7 +586,7 @@
       <workItem from="1563070043359" duration="4488000" />
       <workItem from="1563117229748" duration="41177000" />
       <workItem from="1563215353667" duration="5702000" />
-      <workItem from="1563305980581" duration="2921000" />
+      <workItem from="1563305980581" duration="7984000" />
     </task>
     <task id="LOCAL-00001" summary="wrote CommentTests">
       <created>1563218747699</created>
@@ -563,37 +595,50 @@
       <option name="project" value="LOCAL" />
       <updated>1563218747699</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="wrote CommentTests">
+      <created>1563310235643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563310235643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MainTest - 2019.07.13 at 17h 13m 05s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="UserTest_getUserId - 2019.07.17 at 09h 40m 39s.xml">
+      <configuration name="UserTest.getUserId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommentTest_getCommentId - 2019.07.15 at 14h 49m 20s.xml">
-      <configuration name="CommentTest.getCommentId" configurationId="JUnit" />
+    <history-entry file="UserTest - 2019.07.17 at 09h 40m 48s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommentTest_getCommentText - 2019.07.15 at 14h 49m 39s.xml">
-      <configuration name="CommentTest.getCommentText" configurationId="JUnit" />
+    <history-entry file="UserTest - 2019.07.17 at 09h 47m 47s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommentTest - 2019.07.15 at 14h 49m 46s.xml">
-      <configuration name="CommentTest" configurationId="JUnit" />
+    <history-entry file="UserTest - 2019.07.17 at 09h 51m 14s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommentTest - 2019.07.15 at 14h 53m 40s.xml">
-      <configuration name="CommentTest" configurationId="JUnit" />
+    <history-entry file="UserTest - 2019.07.17 at 09h 54m 03s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommentTest - 2019.07.15 at 14h 53m 51s.xml">
-      <configuration name="CommentTest" configurationId="JUnit" />
+    <history-entry file="UserTest_getUserId - 2019.07.17 at 09h 54m 54s.xml">
+      <configuration name="UserTest.getUserId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_demo - 2019.07.15 at 15h 10m 57s.xml">
+    <history-entry file="All_in_demo - 2019.07.17 at 10h 03m 13s.xml">
       <configuration name="All in demo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_demo - 2019.07.16 at 16h 33m 14s.xml">
+    <history-entry file="All_in_demo - 2019.07.17 at 10h 03m 48s.xml">
       <configuration name="All in demo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_demo - 2019.07.17 at 10h 04m 14s.xml">
+      <configuration name="All in demo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoTest - 2019.07.17 at 10h 33m 45s.xml">
+      <configuration name="VideoTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70213000" />
+    <option name="totallyTimeSpent" value="75276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,7 +653,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.226979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18578352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -618,7 +663,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39452055" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26849315" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -633,10 +678,11 @@
       <window_info anchor="bottom" id="TypeScript" order="14" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32901135" />
       <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.360274" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5022625" side_tool="true" weight="0.09612278" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.09612278" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49773756" weight="0.09612278" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
@@ -652,31 +698,10 @@
     <MESSAGE value="wrote CommentTests" />
     <option name="LAST_COMMIT_MESSAGE" value="wrote CommentTests" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FullStack_MicroWebApplication_Server$All_in_demo.ic" NAME="All in demo Coverage Results" MODIFIED="1563375472621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/exceptions/NotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/exceptions/StorageException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videoproject/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/repositories/FileRepository.java" />
     <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/File.java" />
     <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/controllers/FileController.java" />
@@ -798,40 +823,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/ModelsTests/CommentTests.java" />
-    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/MainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/controllers/CommentController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,26 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/CommentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/video/tests/components/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserCommentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -879,20 +854,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.8.RELEASE/spring-test-5.1.8.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="e#3718#3719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/video/tests/components/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/CommentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/VideoComments.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoCommentsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        <state relative-caret-position="343">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
         </state>
       </provider>
     </entry>
