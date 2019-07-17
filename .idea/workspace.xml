@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca6cba1-870f-48c8-b73d-155a98d6f28f" name="Default Changelist" comment="" />
+    <list default="true" id="eca6cba1-870f-48c8-b73d-155a98d6f28f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/videoproject/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="29" />
+    <option name="myElementSize" value="17" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -37,8 +39,8 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="521">
-                    <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+                  <state relative-caret-position="506">
+                    <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
                   </state>
                 </provider>
               </entry>
@@ -104,14 +106,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="350">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoproject/src/main/angular-newtube/e2e/src/app.e2e-spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="1079" column="14" lean-forward="true" selection-start-line="1079" selection-start-column="14" selection-end-line="1079" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -174,7 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/videoproject/README.md" />
         <option value="$PROJECT_DIR$/videoproject/src/main/angular-videoproject/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/Comment.java" />
         <option value="$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/controllers/CommentController.java" />
@@ -225,6 +247,7 @@
         <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoCommentsTest.java" />
         <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java" />
         <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java" />
+        <option value="$PROJECT_DIR$/videoproject/src/main/angular-newtube/e2e/src/app.e2e-spec.ts" />
       </list>
     </option>
   </component>
@@ -246,11 +269,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="44" />
-    <option name="y" value="23" />
-    <option name="width" value="1236" />
-    <option name="height" value="709" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1280" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -290,6 +313,33 @@
               <item name="videoproject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-newtube" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FullStack.MicroWebApplication-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FullStack.MicroWebApplication-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-newtube" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FullStack.MicroWebApplication-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FullStack.MicroWebApplication-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-newtube" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FullStack.MicroWebApplication-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FullStack.MicroWebApplication-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -300,36 +350,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="videoproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FullStack.MicroWebApplication-Server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FullStack.MicroWebApplication-Server" type="462c0819:PsiDirectoryNode" />
-              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FullStack.MicroWebApplication-Server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FullStack.MicroWebApplication-Server" type="462c0819:PsiDirectoryNode" />
-              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FullStack.MicroWebApplication-Server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FullStack.MicroWebApplication-Server" type="462c0819:PsiDirectoryNode" />
-              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FullStack.MicroWebApplication-Server" type="b2602c69:ProjectViewProjectNode" />
@@ -403,6 +423,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -411,7 +432,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/videoproject/src/main/angular-newtube/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -450,27 +471,11 @@
     </option>
     <option name="contentProportion" value="0.17495711" />
   </component>
-  <component name="RunManager" selected="JUnit.All in demo">
+  <component name="RunManager" selected="Protractor.workspace-project App.should display welcome message">
     <configuration name="All in demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.video.tests.components.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.video.tests.components" />
-      <option name="MAIN_CLASS_NAME" value="com.video.tests.components.MainTest" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -537,6 +542,20 @@
       <scope-kind value="ALL" />
       <method v="2" />
     </configuration>
+    <configuration name="workspace-project App.should display welcome message" type="JavaScriptTestRunnerProtractor" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/videoproject/src/main/angular-newtube/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/videoproject/src/main/angular-newtube/e2e/src/app.e2e-spec.ts" />
+      <test-names>
+        <test-name value="workspace-project App" />
+        <test-name value="should display welcome message" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="Angular Application (angularclient)" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
@@ -569,11 +588,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Protractor.workspace-project App.should display welcome message" />
         <item itemvalue="JUnit.All in demo" />
         <item itemvalue="JUnit.VideoTest" />
         <item itemvalue="JUnit.UserTest.getUserId" />
         <item itemvalue="JUnit.UserTest" />
-        <item itemvalue="JUnit.MainTest.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -595,7 +614,7 @@
       <workItem from="1563070043359" duration="4488000" />
       <workItem from="1563117229748" duration="41177000" />
       <workItem from="1563215353667" duration="5702000" />
-      <workItem from="1563305980581" duration="8301000" />
+      <workItem from="1563305980581" duration="9361000" />
     </task>
     <task id="LOCAL-00001" summary="wrote CommentTests">
       <created>1563218747699</created>
@@ -618,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563375675228</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="committing for pull">
+      <created>1563376135539</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563376135540</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -654,7 +680,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75593000" />
+    <option name="totallyTimeSpent" value="76653000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -666,7 +692,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="-11" y="-1057" width="1280" height="827" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18578352" />
@@ -692,9 +718,9 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="TypeScript" order="14" />
-      <window_info active="true" anchor="bottom" id="Messages" order="15" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Messages" order="15" visible="true" weight="0.3265306" />
       <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.360274" />
-      <window_info anchor="right" id="Coverage" sideWeight="0.5022625" side_tool="true" visible="true" weight="0.09612278" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5022625" side_tool="true" weight="0.09612278" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -713,14 +739,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wrote CommentTests" />
     <MESSAGE value="33% test coverage. Done with models package testing for now. Moving on to services package testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="33% test coverage. Done with models package testing for now. Moving on to services package testing" />
+    <MESSAGE value="committing for pull" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing for pull" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FullStack_MicroWebApplication_Server$All_in_demo.ic" NAME="All in demo Coverage Results" MODIFIED="1563375472621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/repositories/FileRepository.java" />
-    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/File.java" />
     <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/controllers/FileController.java" />
     <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/services/FileService.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6/postgresql-42.2.6.jar!/org/postgresql/jdbc/PgResultSet.class">
@@ -945,20 +970,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="350">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java">
+    <entry file="file://$PROJECT_DIR$/videoproject/src/main/angular-newtube/e2e/src/app.e2e-spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        <state relative-caret-position="330">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="1079" column="14" lean-forward="true" selection-start-line="1079" selection-start-column="14" selection-end-line="1079" selection-end-column="14" />
         </state>
       </provider>
     </entry>
