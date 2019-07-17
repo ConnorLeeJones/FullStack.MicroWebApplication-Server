@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca6cba1-870f-48c8-b73d-155a98d6f28f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eca6cba1-870f-48c8-b73d-155a98d6f28f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/videoproject/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="29" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -35,16 +34,16 @@
       <content type="file-editors">
         <state>
           <leaf>
-            <file pinned="false" current-in-tab="false">
+            <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="697">
-                    <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+                  <state relative-caret-position="521">
+                    <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
                   </state>
                 </provider>
               </entry>
             </file>
-            <file pinned="false" current-in-tab="true">
+            <file pinned="false" current-in-tab="false">
               <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="1050">
@@ -105,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="275">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/Video.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-281">
-              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            <state relative-caret-position="366">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -224,8 +223,8 @@
         <option value="$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/VideoComments.java" />
         <option value="$PROJECT_DIR$/videoproject/src/test/java/com/video/tests/components/MainTest.java" />
         <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoCommentsTest.java" />
-        <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java" />
         <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java" />
+        <option value="$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java" />
       </list>
     </option>
   </component>
@@ -321,6 +320,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="videoproject" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FullStack.MicroWebApplication-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FullStack.MicroWebApplication-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="videoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FullStack.MicroWebApplication-Server" type="b2602c69:ProjectViewProjectNode" />
@@ -586,7 +595,7 @@
       <workItem from="1563070043359" duration="4488000" />
       <workItem from="1563117229748" duration="41177000" />
       <workItem from="1563215353667" duration="5702000" />
-      <workItem from="1563305980581" duration="7984000" />
+      <workItem from="1563305980581" duration="8301000" />
     </task>
     <task id="LOCAL-00001" summary="wrote CommentTests">
       <created>1563218747699</created>
@@ -602,16 +611,17 @@
       <option name="project" value="LOCAL" />
       <updated>1563310235643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="33% test coverage. Done with models package testing for now. Moving on to services package testing">
+      <created>1563375675228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563375675228</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserTest_getUserId - 2019.07.17 at 09h 40m 39s.xml">
-      <configuration name="UserTest.getUserId" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserTest - 2019.07.17 at 09h 40m 48s.xml">
-      <configuration name="UserTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UserTest - 2019.07.17 at 09h 47m 47s.xml">
       <configuration name="UserTest" configurationId="JUnit" />
     </history-entry>
@@ -636,9 +646,15 @@
     <history-entry file="VideoTest - 2019.07.17 at 10h 33m 45s.xml">
       <configuration name="VideoTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VideoTest - 2019.07.17 at 10h 57m 36s.xml">
+      <configuration name="VideoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_demo - 2019.07.17 at 10h 58m 00s.xml">
+      <configuration name="All in demo" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75276000" />
+    <option name="totallyTimeSpent" value="75593000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -663,7 +679,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26849315" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26849315" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -676,9 +692,9 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="TypeScript" order="14" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.32901135" />
+      <window_info active="true" anchor="bottom" id="Messages" order="15" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.360274" />
-      <window_info anchor="right" id="Coverage" sideWeight="0.5022625" side_tool="true" weight="0.09612278" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5022625" side_tool="true" visible="true" weight="0.09612278" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -696,7 +712,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wrote CommentTests" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrote CommentTests" />
+    <MESSAGE value="33% test coverage. Done with models package testing for now. Moving on to services package testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="33% test coverage. Done with models package testing for now. Moving on to services package testing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FullStack_MicroWebApplication_Server$All_in_demo.ic" NAME="All in demo Coverage Results" MODIFIED="1563375472621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -911,10 +928,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="275">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -923,25 +957,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/UserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videoproject/src/main/java/com/zipcodewilmington/videoproject/models/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-281">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videoproject/src/test/java/com/zipcodewilmington/videoproject/models/VideoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+        <state relative-caret-position="521">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
